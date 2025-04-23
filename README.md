@@ -15,7 +15,7 @@
 
  ## 📚 Actualmente aprendiendo:
 
-**Spring Boot** y su ecosistema para mejorar mis habilidades en el desarrollo de aplicaciones Java escalables y robustas.
+**Spring** y su ecosistema para mejorar mis habilidades en el desarrollo de aplicaciones Java escalables y robustas.
 
 ---
 
