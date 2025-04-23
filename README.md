@@ -24,7 +24,7 @@
 
 ## 📬 **Contacto:**
 
-- **LinkedIn:** [Franco en LinkedIn](https://www.linkedin.com/in/franco-leguiza-776a4223a/)
-- **Email:** [tu-email@example.com](mailto:francoleguiza002@gmail.com)
+- **[LinkedIn]:** (https://www.linkedin.com/in/franco-leguiza-776a4223a/)
+- **[Email]:** (mailto:francoleguiza002@gmail.com)
 
 
