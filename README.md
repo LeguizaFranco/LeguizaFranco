@@ -1,8 +1,9 @@
 # ¡Hola, soy Franco! 👋
 
-👨‍💻 **Desarrollador Fullstack** enfocado en crear experiencias web modernas, funcionales y atractivas.  
-🚀 Trabajo con **HTML, CSS, Tailwind CSS, JavaScript y Astro.js** en el frontend, y con **PHP, Java, MySQL y PostgreSQL** en el backend.  
-💡 Me gusta escribir código claro, optimizar el rendimiento y encontrar soluciones que realmente aporten valor.  
+👨‍💻 **Desarrollador Fullstack** enfocado en crear experiencias web modernas, funcionales y atractivas.
+
+💡 Me gusta escribir código claro, optimizar el rendimiento y encontrar soluciones que realmente aporten valor.
+
 🧠 *"No hay programación difícil. Solo hay programación que no has hecho antes."* — **Martin Odersky**
 
 ---
