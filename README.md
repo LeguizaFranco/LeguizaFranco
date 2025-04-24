@@ -1,6 +1,6 @@
 # ¡Hola, soy Franco! 👋
 
-👨‍💻 **Desarrollador Fullstack** enfocado en crear experiencias web modernas, funcionales y atractivas.
+👨‍💻 **Desarrollador de Software** enfocado en crear experiencias web modernas, funcionales y atractivas.
 
 💡 Me gusta escribir código claro, optimizar el rendimiento y encontrar soluciones que realmente aporten valor.
 
@@ -13,8 +13,8 @@
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, Astro.js
 - **Backend:** PHP, Java, MySQL, PostgreSQL
 
- ## 📚 Actualmente aprendiendo:
-
+ ## 📚 Actualmente estudiando:
+- Estudiante avanzado en la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).
 - **Spring** y su ecosistema para mejorar mis habilidades en el desarrollo de aplicaciones Java escalables y robustas.
 - **Angular** para fortalecer mis conocimientos en frameworks modernos de frontend y crear aplicaciones interactivas y robustas.
 
