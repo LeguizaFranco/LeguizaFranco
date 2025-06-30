@@ -1,6 +1,6 @@
 # ¡Hola, soy Franco! 👋
 
-👨‍💻 **Desarrollador de Software** enfocado en crear experiencias web modernas, funcionales y atractivas.
+👨‍💻 **Desarrollador de Software** enfocado en diseñar y desarrollar aplicaciones web modernas y escalables.
 
 💡 Me gusta escribir código claro, optimizar el rendimiento y encontrar soluciones que realmente aporten valor.
 
