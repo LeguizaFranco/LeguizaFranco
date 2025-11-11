@@ -17,6 +17,8 @@
 - Estudiante avanzado en la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).
 - **Spring** y su ecosistema para mejorar mis habilidades en el desarrollo de aplicaciones Java escalables y robustas.
 - **Angular** para fortalecer mis conocimientos en frameworks modernos de frontend y crear aplicaciones interactivas y robustas.
+- Profundizando en estructuras de datos y patrones de diseño.
+- Integrando la IA mediante LLM en aplicaciones web.
 
 ---
 
