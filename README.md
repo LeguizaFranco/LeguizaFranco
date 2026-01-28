@@ -10,8 +10,8 @@
 
 ## 🚀 Tecnologías con las que trabajo:
 
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, Astro.js
-- **Backend:** PHP, Java, MySQL, PostgreSQL
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, Astro.js, Angular
+- **Backend:** Java, Spring Boot, PostgreSQL
 
  ## 📚 Actualmente estudiando:
 - Estudiante avanzado en la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI).
