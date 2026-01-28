@@ -29,6 +29,6 @@
 ## 📬 **Contacto:**
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/franco-leguiza-776a4223a/)  
-- **Email:** [correo electrónico](mailto:francoleguiza002@gmail.com)
+- **Email:** [francoleguiza002@gmail.com](mailto:francoleguiza002@gmail.com)
 
 
